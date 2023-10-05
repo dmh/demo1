@@ -1,0 +1,11 @@
+.vscode/*
+!.vscode/settings.json
+
+theme/assets/*
+src/tmp/*
+
+node_modules
+.env
+.env*
+.idea
+.DS_Store

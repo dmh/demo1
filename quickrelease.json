@@ -1,0 +1,8 @@
+{
+    "files": ["theme/theme.json"],
+    "changelog": {
+        "labels": ["[FEATURE]","[BUGFIX]","[TASK]","[DOC]","[TEST]"],
+        "breakingLabel": "[!!!]"
+    },
+    "githubReleaseTitles": ["New Features", "Bugfixes", "General", "Documentation", "Tests"]
+}
